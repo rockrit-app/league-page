@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "your_league_id"; 737108337161793536
-export const leagueName = "your_league_name"; "2020-21 League"
+export const leagueName = "your_league_name"; 2020-21 League
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false;
 
