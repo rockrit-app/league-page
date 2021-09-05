@@ -17,7 +17,7 @@ export const homepageText = `
 <p>Go well. Love you.</p>
 <p>Commissioner</p>
 
-<h6>Guest Post - Expert Analyst Hugo McWilliam</h6>
+<h6>Guest Post - Expert Analyst Hugo McWilliam's Draft Reaction</h6>
 <p class="MsoNormal"><b><u><span lang="EN-US" style="font-size:14.0pt;line-height:
 107%;mso-ansi-language:EN-US">East Division<o:p></o:p></span></u></b></p>
 
