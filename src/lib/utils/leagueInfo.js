@@ -17,6 +17,10 @@ export const homepageText = `
 <p>Go well. Love you.</p>
 <p>Commissioner</p>
 
+<p><a href="https://goto.kayosports.com.au/c/2888218/568497/8808">Stream an average of 5 NFL games each week LIVE and On-Demand on Kayo Sports.</a></p>
+
+<p><a href="https://goto.kayosports.com.au/c/2888218/568497/8808">Sign up now to start your 14-day free trial and start streaming instantly!</a></p>
+
 <h6>Guest Post - Expert Analyst Hugo McWilliam's Draft Reaction</h6>
 <p class="MsoNormal"><b><u><span lang="EN-US" style="font-size:14.0pt;line-height:
 107%;mso-ansi-language:EN-US">East Division<o:p></o:p></span></u></b></p>
