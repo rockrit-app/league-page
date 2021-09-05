@@ -21,7 +21,7 @@ export const homepageText = `
 
 <p><a href="https://goto.kayosports.com.au/c/2888218/568497/8808">Sign up now to start your 14-day free trial and start streaming instantly!</a></p>
 
- <a href="https://goto.kayosports.com.au/c/2888218/546787/8808" target="_top" id="546787"><img src="//a.impactradius-go.com/display-ad/8808-546787" border="0" alt="Kayo Sports" width="320" height="50"/></a><img height="0" width="0" src="https://goto.kayosports.com.au/i/2888218/546787/8808" style="position:absolute;visibility:hidden;" border="0" /> 
+<a href="https://goto.kayosports.com.au/c/2888218/546787/8808" target="_top" id="546787"><img src="//a.impactradius-go.com/display-ad/8808-546787" border="0" alt="Kayo Sports" width="320" height="50"/></a><img height="0" width="0" src="https://goto.kayosports.com.au/i/2888218/546787/8808" style="position:absolute;visibility:hidden;" border="0" /> 
 
 <h6>Guest Post - Expert Analyst Hugo McWilliam's Draft Reaction</h6>
 <p class="MsoNormal"><b><u><span lang="EN-US" style="font-size:14.0pt;line-height:
