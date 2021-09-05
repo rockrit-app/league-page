@@ -100,6 +100,19 @@
 </style>
 
 <div class="constitution">
+    <h1 class="noUnderscore">COMMISSIONER'S CORNER</h1>
+	<h6>Draft Week</h6>
+<p>What are we doing.</p>
+<p>What are we seeking to achieve.</p>
+<p>Why are we here.</p>
+<p>We are here to compete. We are here to impose our will on the chaos and disorder of monotonous, grinding reality by seeking to wring meaning from fantasy. Fantasy Football is here. We are joined together to find elation in the efforts of the beautiful, proud young men of the NFL throwing, rushing, receiving, and celebrating in the end zone. By accruing fantasy points we can escape from Covid, from lockdowns, from the annoying bloke in the office (insert your own nemesis). Selecting your team is a way to take back control and engage in the most important pursuit – competition against your peers.</p>
+<p>Congratulations on a successful draft. I have every confidence that the coming season will be enjoyable and victory will be hard fought. We are starting from a position of strength. Savour the possibilities of this moment – the competition is wide open. You are limitless in your capabilities and bursting with potential. Dream big and make your dreams into reality. </p>
+<p>But I implore you – ask not what your fantasy league can do for you, ask what you can do for your fantasy league. Strive, compete, adapt, overcome. Seek to compete and to win. Do not yield to adversity – injury, injustice, bad luck or poor timing – and do not indulge in self-pity. Refrain from appealing to the commissioner or the league for special treatment or latitude. Refuse to fade away when bested by your opponent. Regroup. Check the waiver wire. Recalibrate your strategy and petition your countrymen for the trade that will put your team back into contention. Fight back, and go forth to the next week with humble gratitude for the opportunity to do better. </p>
+<p>Equally, understand that your victories can be as fleeting as a change to the roster in the real world. Do not flaunt your good fortune to your opponents – be gracious in victory and understanding of the pain that this may bring to your enemies. Show friendship and understanding to others. From one week to the next you will be challenged, taken from the dizzying heights of elated victory to the crushing depths of ignominious defeat. The true measure of your character – as a man, a friend, a lover, and a fantasy manager – can be found in the pride you take in doing the best you can and the humility that comes from taking your wins and your loses with maturity and respect for the league. </p>
+<p>You know the rules. You know the spirit of the competition. You know your obligations and responsibilities – the most important of which are to yourselves. I believe that after 16 weeks of competition we will all be able to look back on what we have achieved, together, and reflect on the fact that the real fantasy football championship was the friendships and rivalries we made along the way. </p>
+<p>Go well. Love you.</p>
+<p>Commissioner</p>
+<!-- <div class="constitution">
     <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
@@ -303,5 +316,5 @@
     
     <h3 bind:this={sevenThree}>7.3 Raising Dues</h3>
     <p>A ⅔ majority vote is required in order to raise league dues. In the event that a manager is no longer financially comfortable with the buyin, finding a co-manager to split the cost is reccomended.</p>
-
+-->
 </div>
