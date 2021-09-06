@@ -150,12 +150,11 @@
 <div id="home">
     <div id="main">
         <div class="text">
+		<h6>Fantasy Football 360 - Draft in Review</h6>
+		<iframe title="vimeo-player" src="https://player.vimeo.com/video/598261409?h=a4b398e53a" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 		<h6>Commissioner's Corner - Draft Week</h6>
             <!-- homepageText contains the intro text for your league, this gets edited in /src/lib/utils/leagueInfo.js -->
             {@html homepageText }
-		
-		<h6>Fantasy Football 360</h6>
-		<iframe title="vimeo-player" src="https://player.vimeo.com/video/577941746?h=cc2d8cf157" width="640" height="360" frameborder="0" allowfullscreen></iframe>
         </div>
         <PowerRankings />
     </div>
