@@ -153,7 +153,7 @@
 		<h6>100% Fantasy Football - Week 1 Preview</h6>
 		<iframe src="https://drive.google.com/file/d/1mAyTqSSk3843__DEH3TkWVfq2Qc7vW4D/preview" width="640" height="480" allow="autoplay"></iframe>
 		<h6>Fantasy Football 360 - Draft in Review</h6>
-		<iframe title="vimeo-player" src="https://player.vimeo.com/video/598261409?h=a4b398e53a" width="90%" frameborder="0" allowfullscreen></iframe>
+		<iframe title="vimeo-player" src="https://player.vimeo.com/video/598261409?h=a4b398e53a" width="110%" frameborder="0" allowfullscreen></iframe>
 		<h6>Commissioner's Corner - Draft Week</h6>
             <!-- homepageText contains the intro text for your league, this gets edited in /src/lib/utils/leagueInfo.js -->
             {@html homepageText }
